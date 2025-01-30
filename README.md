@@ -36,4 +36,4 @@ Para rodar o projeto localmente:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/amigo-secreto.git
+https://github.com/dorigonato/Sorteio_Amigo_Secreto.git
